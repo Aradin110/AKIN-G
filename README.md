@@ -1,1 +1,4 @@
-# AKIN-G
+- `rm -rf AKIN-G`
+- `git clone https://github.com/Aradin110/AKIN-G`
+- `cd AKIN-G`
+- `python AKING.py`
